@@ -15,7 +15,7 @@ function Header() {
                 layout='fill'
                 objectFit='cover'
                 className='rounded-full'
-                src="https://links.papareact.com/3pi" />
+                src="https://i.pinimg.com/originals/e5/ec/54/e5ec543b575eb51881d71fe07887e1d9.png" />
             </div>
 
             <div className='col-span-3 text-left sm:text-center'>
